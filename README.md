@@ -1,2 +1,2 @@
-# RamakantKumar.github.io
+# guidemint.github.io/portfolio
 A Personal Portfolio
